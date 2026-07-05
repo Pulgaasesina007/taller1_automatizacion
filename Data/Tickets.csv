@@ -1,0 +1,6 @@
+﻿ID,Categoria,Estado,Horas_Resolucion
+101,Redes,Cerrado,1.5
+102,Hardware,Cerrado,3.0
+103,Software,Abierto,0.5
+104,Redes,Cerrado,2.0
+105,Hardware,Cerrado,4.5

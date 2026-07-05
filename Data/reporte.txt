@@ -1,0 +1,8 @@
+=== REPORTE DE INCIDENCIAS ===
+
+Tiempo promedio de resolución: 2.3 horas
+
+Tickets por categoría:
+- Redes: 2
+- Hardware: 2
+- Software: 1
